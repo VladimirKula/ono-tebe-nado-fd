@@ -110,7 +110,7 @@
   margin-right: 20px;
 }
 
-.no-letter-spacing-e {
+.no-letter-spacing-center {
   margin-right: 15px;
   padding-right: 15px;
 }
@@ -216,6 +216,7 @@
   font-weight: 400;
   line-height: 24px;
   margin-top: auto;
+  text-decoration: none;
 }
 
 .lots__look-more-link {
@@ -295,10 +296,6 @@
 
 .footer__menu-link_active {
   text-decoration: none;
-  font-weight: 400;
-  font-size: 18px;
-  text-align: center;
-  color: #000;
 }
 
 .footer__social-list {
